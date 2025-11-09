@@ -5,11 +5,11 @@ Built using **Streamlit** and **Hugging Face Transformers**.
 
 ---
 
-## 🚀 Features
-- 🧠 Emotion detection (Sadness, Joy, Anger, Fear, Disgust)
-- 💬 Empathetic and realistic AI replies
-- 🌈 Modern and clean Streamlit UI
-- 🪄 No OpenAI API key required (uses HuggingFace free model)
+##  Features
+-  Emotion detection (Sadness, Joy, Anger, Fear, Disgust)
+-  Empathetic and realistic AI replies
+-  Modern and clean Streamlit UI
+-  No OpenAI API key required (uses HuggingFace free model)
 
 ---
 
